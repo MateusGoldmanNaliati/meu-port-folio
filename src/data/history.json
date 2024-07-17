@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Análise e desenvolvimento de sistemas",
+    "organisation": "Universidade São Judas Tadeu ",
+    "startDate": "Junho, 2022",
+    "endDate": "Dezembro 2025",
+    "experiences": ["Engenharia de Software", "Análise de sistemas"],
+    "imageSrc": "history/ustj.png"
+  },
+  {
+    "role": "Programação",
+    "organisation": "Alura",
+    "startDate": "Setembro, 2023",
+    "endDate": "Setembro, 2024",
+    "experiences": ["Programção Back-End", "Fundamentos de DevOps e APIs"],
+    "imageSrc": "history/alura.png"
+  },
+  {
+    "role": "Administração",
+    "organisation": "CPS Etec São Paulo",
+    "startDate": "Janeiro, 2019",
+    "endDate": "Dezembro, 2020",
+    "experiences": [
+      "implementação de processos administrativos",
+      "Excel, Word, PowerPoint e Gestão de Projetos ."
+    ],
+    "imageSrc": "history/Etec.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Projeto Comprador de bilhetes",
+    "imageSrc": "projects/project.png",
+    "description": "O projeto foi construido em javascript e html com o intuito de simular compras de bilhetes em cinemas.",
+    "skills": ["CSS", "HTML", "JavaScript"],
+    "demo": "https://comprador-de-ingresso-b91dt6fc7-mateusgoldman-projects.vercel.app/",
+    "source": "https://github.com/MateusGoldmanNaliati/Comprador-de-Ingresso"
+  },
+  {
+    "title": "Projeto Sorteador de número aleatorios",
+    "imageSrc": "projects/project2.png",
+    "description": "Projeto basico feito para gerar números aleatorios",
+    "skills": ["CSS", "HTML", "JavaScript"],
+    "demo": "https://sorteador-numeros-3m5gqvxy9-mateusgoldman-projects.vercel.app/",
+    "source": "https://github.com/MateusGoldmanNaliati/sorteador-numeros"
+  },
+  {
+    "title": "Projeto de Portfólio Pessoal",
+    "imageSrc": "projects/site.png",
+    "description": "portfólio desenvolvido em Node.js, JavaScript e React para uma experiência interativa e responsiva.",
+    "skills": ["React", "JavaScript", "Node.JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
