@@ -42,7 +42,3 @@ Seu Repositorio deve ficar assim =>
 
    
 # MeuPortfolio
-# MeuPortfolio
-# MeuPortfolio
-# MeuPortfolio
-# MeuPortfolio1
