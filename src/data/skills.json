@@ -1,19 +1,19 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Git",
+    "imageSrc": "skills/git.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "MySQL",
+    "imageSrc": "skills/sql.png"
   },
   {
-    "title": "Node.js",
-    "imageSrc": "skills/node.png"
+    "title": "Flask",
+    "imageSrc": "skills/flask.png"
   },
   {
     "title": "Java",

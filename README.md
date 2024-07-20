@@ -1,11 +1,6 @@
 # Meu Projeto React com Vite
 *Vite + *React
-Este projeto precisa ter uma configuração mínima para fazer React funcionar junto ao Vite com HMR (Hot Module Replacement) e algumas regras do ESLint.
-
-## Plugins Oficiais Disponíveis
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md): Usa Babel para Fast Refresh.
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc): Usa SWC para Fast Refresh.
+Este projeto precisa ter uma configuração mínima para fazer o React funcionar junto ao Vite com HMR (Hot Module Replacement) e algumas regras do ESLint.
 
 ## Como Começar !
 
