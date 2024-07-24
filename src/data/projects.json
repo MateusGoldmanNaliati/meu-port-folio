@@ -20,7 +20,7 @@
     "imageSrc": "projects/site.png",
     "description": "portfólio desenvolvido em Node.js, JavaScript e React para uma experiência interativa e responsiva.",
     "skills": ["React", "JavaScript", "Node.JS"],
-    "demo": "https://66a12547a0c8b0553eaaadaa--portifolio-nao-oficial.netlify.app/",
+    "demo": "Return",
     "source": "https://github.com/MateusGoldmanNaliati/meu-port-folio"
   }
 ]
