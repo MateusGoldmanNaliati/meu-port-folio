@@ -13,7 +13,7 @@ export const Hero = () => {
           Sinta-se à vontade para explorar meu perfil e conhecer mais sobre meus projetos e experiências 😊.
 
         </p>
-        <a href="mailto:mailto:MateusgoldmaNaliati@outlook.com" className={styles.contactBtn}>
+        <a href="mailto:MateusgoldmaNaliati@outlook.com" className={styles.contactBtn}>
           Contate-me
         </a>
       </div>
